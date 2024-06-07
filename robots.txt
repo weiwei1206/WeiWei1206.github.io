@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://WeiWei_CS.github.io/al-folio/sitemap.xml
+Sitemap: https://weiwei1206.github.io/sitemap.xml
