@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2023-10-19
+inline: ture
 related_posts: false
 ---
 
-A simple inline announcement.
+One paper LLMRec is accepted by WSDM’24. 
+
+

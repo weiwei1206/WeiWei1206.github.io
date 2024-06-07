@@ -1,9 +1,9 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2024-03-25
+date: 2024-05-16
 inline: ture
 related_posts: false
 ---
 
-One paper GraphGPT is accepted by SIGIR’24.  
+One paper HiGPT is accepted by KDD’24.
